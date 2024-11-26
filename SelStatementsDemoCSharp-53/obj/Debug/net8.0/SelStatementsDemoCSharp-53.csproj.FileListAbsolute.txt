@@ -1,0 +1,14 @@
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\bin\Debug\net8.0\SelStatementsDemoCSharp-53.exe
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\bin\Debug\net8.0\SelStatementsDemoCSharp-53.deps.json
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\bin\Debug\net8.0\SelStatementsDemoCSharp-53.runtimeconfig.json
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\bin\Debug\net8.0\SelStatementsDemoCSharp-53.dll
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\bin\Debug\net8.0\SelStatementsDemoCSharp-53.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\SelStatementsDemoCSharp-53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\SelStatementsDemoCSharp-53.AssemblyInfoInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\SelStatementsDemoCSharp-53.AssemblyInfo.cs
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\SelStatementsDemoCSharp-53.csproj.CoreCompileInputs.cache
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\SelStatementsDemoCSharp-53.dll
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\refint\SelStatementsDemoCSharp-53.dll
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\SelStatementsDemoCSharp-53.pdb
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\SelStatementsDemoCSharp-53.genruntimeconfig.cache
+C:\Users\sethb\OneDrive\Desktop\repos\SelStatementsDemoCSharp-53\SelStatementsDemoCSharp-53\obj\Debug\net8.0\ref\SelStatementsDemoCSharp-53.dll
